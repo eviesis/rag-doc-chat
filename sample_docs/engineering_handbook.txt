@@ -1,0 +1,25 @@
+Northwind Labs Engineering Handbook (fictional demo document for evaluating the RAG app)
+
+Code review. Every pull request needs two approvals before it can be merged, and at least one of them must come from a code owner of the affected files. Pull requests longer than 400 lines should be split into smaller ones. Reviewers are expected to respond within one business day.
+
+Deployments. Production deploys happen on Tuesday and Thursday between 10:00 and 15:00 IST. Friday deploys are frozen unless the engineering manager approves a hotfix. If the error rate rises above 2% after a release, the change must be rolled back within 15 minutes.
+
+On-call. The on-call rotation is weekly, with handover every Monday at 10:00. The engineer on call must acknowledge a page within 10 minutes. Anyone who covers a weekend shift receives one and a half compensation days.
+
+Incident severity. A Sev1 incident means a full outage, a Sev2 means a major feature is degraded, and a Sev3 means a minor issue with a workaround. For a Sev1, the status page must be updated within 20 minutes and a written postmortem is due within 5 business days.
+
+Annual and sick leave. Every employee gets 24 paid days of annual leave, and up to 8 days can be carried forward to the next year. Sick leave is 12 days per year, and a medical certificate is required after 3 consecutive sick days.
+
+Parental leave. The primary caregiver receives 26 weeks of paid parental leave. The secondary caregiver receives 4 weeks. Leave can be taken any time within the first year after birth or adoption.
+
+Expenses. Expense claims must be submitted with receipts within 30 days of the purchase. Any single claim above 5,000 rupees needs manager approval first. Approved claims are reimbursed in the next payroll cycle.
+
+Remote work. Employees may work remotely up to 3 days a week. New joiners receive a one-time home office stipend of 20,000 rupees, and internet costs are reimbursed at 1,000 rupees per month.
+
+Security. A password manager is mandatory for all staff, and access to production systems requires a hardware security key. All laptops use full-disk encryption. A lost or stolen device must be reported to the security team within 1 hour.
+
+Learning budget. Each engineer has a learning budget of 40,000 rupees per year for courses, books and conferences, plus two paid learning days every quarter.
+
+Meetings. Wednesday is a no-meeting day for the whole company. Meetings default to 25 minutes, and any meeting with more than four attendees needs a written agenda.
+
+Onboarding. The laptop is delivered before the first day. Each new hire is paired with a buddy for the first six weeks, and a 30-60-90 day plan is reviewed with the manager in week one.

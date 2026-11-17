@@ -1,0 +1,14 @@
+[
+  {"question": "How many people must sign off on a pull request before it can be merged?", "answer_contains": "two approvals"},
+  {"question": "On which days of the week are production releases allowed?", "answer_contains": "Tuesday and Thursday"},
+  {"question": "What error rate after a release forces a rollback?", "answer_contains": "2%"},
+  {"question": "How quickly must the engineer who is on call respond to an alert?", "answer_contains": "within 10 minutes"},
+  {"question": "After a total outage, how soon must customers be informed on the status page?", "answer_contains": "within 20 minutes"},
+  {"question": "How many unused vacation days can I roll over into next year?", "answer_contains": "8 days"},
+  {"question": "How long is leave for the main caregiver of a newborn?", "answer_contains": "26 weeks"},
+  {"question": "What is the deadline for filing an expense claim?", "answer_contains": "within 30 days"},
+  {"question": "How many days a week am I allowed to work from home?", "answer_contains": "3 days a week"},
+  {"question": "What do I do if my work laptop gets stolen?", "answer_contains": "within 1 hour"},
+  {"question": "How much money do I get every year to spend on courses and conferences?", "answer_contains": "40,000 rupees"},
+  {"question": "Which weekday is free of meetings?", "answer_contains": "Wednesday"}
+]

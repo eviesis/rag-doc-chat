@@ -1,0 +1,18 @@
+Company Onboarding Notes
+
+Our engineering team uses a trunk-based development workflow. All feature
+branches are short-lived and merged into main within two days. Code review
+requires at least one approval before merging.
+
+Deployment pipeline: commits to main trigger a CI build via GitHub Actions,
+which runs unit tests, linting, and a security scan. On success, the build
+is pushed to a staging environment automatically. Production deploys require
+manual approval from a team lead.
+
+On-call rotation runs weekly, Monday to Monday. The on-call engineer is
+responsible for triaging incoming alerts within 15 minutes during business
+hours, and within 30 minutes outside business hours.
+
+New hires are expected to complete the onboarding checklist within their
+first two weeks, which includes setting up local dev environment, reading
+the architecture overview doc, and shadowing one on-call shift.
